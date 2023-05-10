@@ -1,5 +1,3 @@
-https://github.com/Gtadarcblack/autoclicker.gitvar AutoClicker = {}
-
 AutoClicker.init = function() {
 
 
