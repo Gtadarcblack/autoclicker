@@ -1,3 +1,5 @@
+var AutoClicker = {}
+
 AutoClicker.init = function() {
 
 
